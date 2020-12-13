@@ -10,13 +10,13 @@ use_logo: false
 show_time_bar: false
 instagram_username: instagram_username
 show_modal_on_exit: false
-name: TamilGun
+name: TamilBlasters
 permalink: /:title/
 paginate_path: /page/:num/
 sass:
   style: compressed
 markdown: kramdown
-url: https://tamilgun.isaiminiweb.online
+url: https://tamilblasters.github.io
 facebook_username: facebook_username
 sent_message_url: /contact/message-sent/
 paginate_content:
